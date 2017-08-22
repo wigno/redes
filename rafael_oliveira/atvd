@@ -1,0 +1,10 @@
+Questão 1: *
+
+Questão 2: Após a clonagem, ao executar o ls, o meu repositório também é listado, dentre os conteúdos do diretório. E
+  ao após executar o comando cd (acessar diretorio), ao executar pw, o link mostrado é do meu repositório local.
+  
+Questão 3: O branch funciona como uma das várias ramificaçes que vocẽ pode ter, facilitando a organização, como pastas;
+  O arquivo criado foi enviado para o branch "master"; Para enviar para outro, seria necessário se alternar entre branchs
+  e só então refazer o processo de envio.
+  
+Questão 4: Toda a informação contida depois do "diff", por exemplo: diff --git a/teste1 b/teste1
